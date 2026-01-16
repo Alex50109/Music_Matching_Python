@@ -1,6 +1,6 @@
 # Music Recognition API
 
-This is a Django-based API that records audio from the microphone, fingerprints it, and matches it against a database of songs using hashing algorithms.
+This is a Django-based API, based on the initial version of Shazam, that records audio from the microphone, fingerprints it, and matches it against a database of songs using hashing algorithms.
 
 # How it works
 1. **Record**: Captures 12 seconds of audio.
